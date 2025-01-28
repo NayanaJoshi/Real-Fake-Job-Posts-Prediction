@@ -93,6 +93,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 For any questions or feedback, feel free to reach out:
-- **Email:** joshinayana@example.com
+- **Email:** joshinayana206@gamil.com
 - **GitHub:** NayanaJoshi(https://github.com/NayanaJoshi/Real-Fake-Job-Posts-Prediction)
 
