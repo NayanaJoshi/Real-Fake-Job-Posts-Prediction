@@ -1,0 +1,6 @@
+streamlit
+stopwords
+nltk
+
+tabulate
+wordnet
